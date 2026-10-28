@@ -1,6 +1,9 @@
 ## What this changes
 <!-- A short summary, with links to any issues or docs. -->
 
+Issue: Closes #
+<!-- Required for a feature or a change to how customer data is handled (Security Standards §2.2). Otherwise write "none" and say why, e.g. "none: fix". -->
+
 ## How it was tested
 - [ ] CI passes
 - [ ] Tried on dev or staging (say what you checked):
